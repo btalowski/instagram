@@ -1,0 +1,2 @@
+[2019-07-15 17:54:10] local.ERROR: SQLSTATE[HY000] [2002] Nie mo¿na nawi¹zaæ po³¹czenia, poniewa¿ komputer docelowy aktywnie go odmawia.
+ (SQL: select count(*) as aggregate from `users` where `email` = test@test.com)  
